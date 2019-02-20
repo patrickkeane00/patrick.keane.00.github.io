@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Seymour+One');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+h1 {
+font-family: "Lucida Console", Monaco, monospace;
+text-align: left;
+color: darkblue;
+font-size: 75px;
+background-color: white;
+padding-top: 20px;
+width: 1920px;
+height: 90px;
+}
+
+header {
+position: relative;
+top: -50px;
+left: -8px; 
+}
+
+span {
+font-weight: bold;
+font-family: "Seymour One", cursive, sans-serif;
+}
+
+nav {
+margin-top: -90px;
+}
+
+a {
+color: lightblue;
+font-family: "Georgia", Serif;
+font-size: 30px;
+text-decoration: none;
+font-weight: bold;
+bottom: 30px;
+}
+
+a:hover {
+color: #b300b3;
+text-decoration: underline;
+}
+
+body {
+background-color: blue;
+}
+
+p {
+color: white;
+font-family: "Comic Sans MS", cursive, sans-serif;
+padding-top: 90px;
+}
+
+
