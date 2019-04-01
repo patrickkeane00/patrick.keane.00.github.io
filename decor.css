@@ -28,7 +28,7 @@ margin-top: -90px;
 }
 
 a {
-color: lightblue;
+color: #0073e6;
 font-family: "Georgia", Serif;
 font-size: 30px;
 text-decoration: none;
@@ -41,14 +41,35 @@ color: #b300b3;
 text-decoration: underline;
 }
 
+a:active {
+color: black;
+}
+
 body {
-background-color: blue;
+background-color: #0099ff;
 }
 
 p {
 color: white;
-font-family: "Comic Sans MS", cursive, sans-serif;
-padding-top: 90px;
+font-family: "Arial", cursive, sans-serif;
+padding-top: 0px;
 }
 
+h2 {
+color: white;
+font-family: "Cambria", serif;
+padding-top: 90px;
+font-weight: bold;
+}
+
+h3 {
+color: white;
+font-family: "Cambria", serif;
+text-decoration: underline;
+font-style: italic;
+}
+
+.padding-top {
+padding-top: 90px
+}
 
